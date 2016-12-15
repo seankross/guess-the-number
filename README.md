@@ -7,6 +7,7 @@ A quick Shiny app that demonstrates basic functions of
 ## Run it locally
 
 ```r
+# install.packages(c("shiny", "shinyjs", "googlesheets", "magrittr"))
 shiny::runGitHub("seankross/guess-the-number")
 ```
 
